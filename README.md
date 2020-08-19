@@ -1,4 +1,4 @@
-#**Dont_Touch_Your_Face**
+**Dont_Touch_Your_Face**
 
  Face recognition tool that detects whenever you touch your face with your 
  hand and alerts you. allows users to receive alerts prior to potential face
@@ -19,4 +19,4 @@
  Perceptual Computing Workshop.
  
  **experiencing any issues? got any cool suggestions?** 
- let us know at _itamar108@gmail.com_ 
+ let us know!
