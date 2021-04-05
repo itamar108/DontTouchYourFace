@@ -15,7 +15,7 @@
  
  
  ---------------------------------------------------------------------------
- Developed by Shetu ayalew and Itamar Hadad, As part of the Hebrew U 
+ Developed by Shetu Ayalew and Itamar Hadad, As part of the Hebrew U 
  Perceptual Computing Workshop.
  
  **experiencing any issues? got any cool suggestions?** 
